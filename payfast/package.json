@@ -1,0 +1,29 @@
+{
+  "name": "payfast",
+  "version": "1.0.0",
+  "description": "Um gateway para pagamentos atraves de recursos http.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gateway",
+    "pagamentos",
+    "api"
+  ],
+  "author": "Kayque Pereira",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "express-validator": "^2.20.8",
+    "memcached": "^2.2.2",
+    "morgan": "^1.7.0",
+    "mysql": "^2.17.1",
+    "restify": "^4.1.1",
+    "soap": "^0.30.0",
+    "winston": "^2.2.0"
+  },
+  "devDependencies": {}
+}
