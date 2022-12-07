@@ -14,14 +14,14 @@
   "author": "Kayque Pereira",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "consign": "^0.1.6",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-validator": "^2.20.8",
     "memcached": "^2.2.2",
     "morgan": "^1.7.0",
     "mysql": "^2.17.1",
-    "restify": "^4.1.1",
+    "restify": "^4.3.4",
     "soap": "^0.30.0",
     "winston": "^2.2.0"
   },
